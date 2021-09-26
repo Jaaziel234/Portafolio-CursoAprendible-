@@ -6,4 +6,3 @@ Ejecuta `php artisan serve`
 
 Abre la aplicación en el navegador
 
-"# portafolio" 
